@@ -23,7 +23,7 @@ public class App {
 			soma += numeros[i];
 		}
 
-		System.out.printf("Soma dos numeros: %d\n", soma);
+		System.out.printf("Sooma dos numeros: %d\n", soma);
 
 		scanner.close();
 	}
